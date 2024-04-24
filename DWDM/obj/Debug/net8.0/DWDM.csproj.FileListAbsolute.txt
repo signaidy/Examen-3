@@ -1,0 +1,14 @@
+C:\Users\KQ-DESK\Documents\TestDocker\src\Telecom\Examen 3\DWDM\bin\Debug\net8.0\DWDM.exe
+C:\Users\KQ-DESK\Documents\TestDocker\src\Telecom\Examen 3\DWDM\bin\Debug\net8.0\DWDM.deps.json
+C:\Users\KQ-DESK\Documents\TestDocker\src\Telecom\Examen 3\DWDM\bin\Debug\net8.0\DWDM.runtimeconfig.json
+C:\Users\KQ-DESK\Documents\TestDocker\src\Telecom\Examen 3\DWDM\bin\Debug\net8.0\DWDM.dll
+C:\Users\KQ-DESK\Documents\TestDocker\src\Telecom\Examen 3\DWDM\bin\Debug\net8.0\DWDM.pdb
+C:\Users\KQ-DESK\Documents\TestDocker\src\Telecom\Examen 3\DWDM\obj\Debug\net8.0\DWDM.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KQ-DESK\Documents\TestDocker\src\Telecom\Examen 3\DWDM\obj\Debug\net8.0\DWDM.AssemblyInfoInputs.cache
+C:\Users\KQ-DESK\Documents\TestDocker\src\Telecom\Examen 3\DWDM\obj\Debug\net8.0\DWDM.AssemblyInfo.cs
+C:\Users\KQ-DESK\Documents\TestDocker\src\Telecom\Examen 3\DWDM\obj\Debug\net8.0\DWDM.csproj.CoreCompileInputs.cache
+C:\Users\KQ-DESK\Documents\TestDocker\src\Telecom\Examen 3\DWDM\obj\Debug\net8.0\DWDM.dll
+C:\Users\KQ-DESK\Documents\TestDocker\src\Telecom\Examen 3\DWDM\obj\Debug\net8.0\refint\DWDM.dll
+C:\Users\KQ-DESK\Documents\TestDocker\src\Telecom\Examen 3\DWDM\obj\Debug\net8.0\DWDM.pdb
+C:\Users\KQ-DESK\Documents\TestDocker\src\Telecom\Examen 3\DWDM\obj\Debug\net8.0\DWDM.genruntimeconfig.cache
+C:\Users\KQ-DESK\Documents\TestDocker\src\Telecom\Examen 3\DWDM\obj\Debug\net8.0\ref\DWDM.dll
